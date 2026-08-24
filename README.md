@@ -171,7 +171,7 @@ This practical demonstrates the creation of a basic Android application using Ko
 
 <img width="290" height="642" alt="Screenshot 2026-08-24 222802" src="https://github.com/user-attachments/assets/139e200a-6cea-4913-b5b0-8e3397eb1e96" />
 
-<img width="388" height="847" alt="Screenshot 2026-08-24 222929" src="https://github.com/user-attachments/assets/fb8330f3-b3f9-47c1-80d2-598a6ff5b8ae" />
+<img width="290" height="642" alt="Screenshot 2026-08-24 222929" src="https://github.com/user-attachments/assets/fb8330f3-b3f9-47c1-80d2-598a6ff5b8ae" />
 
 <img width="1759" height="115" alt="Screenshot 2026-08-24 222848" src="https://github.com/user-attachments/assets/d4ea751f-da5b-43cf-9ef1-3fd5ec1c0cab" />
 
